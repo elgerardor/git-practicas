@@ -1,2 +1,2 @@
 # git-practicas
-Practicas de git
+Ejercicios de practicas de integracion.
